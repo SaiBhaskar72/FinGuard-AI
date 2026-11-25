@@ -9,7 +9,7 @@ I have always been interested in understanding how data,
 mathematical reasoning, and machine learning can be used
 to solve complex real-world problems.
 
-Through FinGuard AI, I want to explore how financial
+Through this project, I want to explore how financial
 transactions can be analyzed to identify suspicious
 behavior, recognize hidden patterns, and support
 intelligent risk-based decision-making.
@@ -41,19 +41,14 @@ evidence-based validation.
 
 - Can machine learning effectively identify fraudulent
   transactions in highly imbalanced financial datasets?
-
 - How does feature engineering influence the predictive
   capability and reliability of different models?
-
 - Do complex machine learning models consistently
   outperform simpler statistical models?
-
 - Can anomaly detection identify suspicious transaction
   patterns that supervised models may overlook?
-
 - How can prediction thresholds be optimized to balance
   fraud detection, false alerts, and financial losses?
-
 - How well do trained models generalize to previously
   unseen financial transactions?
 
@@ -191,17 +186,13 @@ will be maintained within this repository.
 This is an ongoing independent study and research
 project.
 
-I am continuously exploring machine learning concepts,
-strengthening my Python programming capabilities,
-experimenting with different modeling approaches,
-and diving deeper into the mathematical and practical
-foundations of predictive intelligence.
+My focus is on understanding how machine learning models learn from financial data, respond to uncertainty, and generalize to unseen scenarios. Through continuous experimentation, I aim to investigate their strengths, limitations, and practical relevance in financial risk intelligence.
 
 The repository will evolve as I progress through
 the research, implementation, experimentation,
 and validation stages.
 
-The purpose of this journey is not merely to build
+The purpose of this project is not merely to build
 a working model, but to develop a deeper understanding
 of how intelligent systems are designed, evaluated,
-debugged, and continuously improved.
+debugged, and continuously improved..
